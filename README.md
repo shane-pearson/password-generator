@@ -3,6 +3,8 @@ The prupose of this project is to create a random password generator that genera
 
 ![Finished Project](../../../../../c:/Users/spearson/bootcamp/password-generator/assets/images/screenshot.jpg)
 
+Deployed site: https://shane-pearson.github.io/password-generator/
+
 Installation:
 I think the challenging part of the installation was breaking down all of the elements I would need to add. First I had to see the code that was already in place.  I analyzed what was built, then begun writing down what was left to do. I think I catagorize the code break down in 2 parts. First the variables I would need to set up to make the paramaters of the password, and then secondly the functions needed to execute that code. 
 
